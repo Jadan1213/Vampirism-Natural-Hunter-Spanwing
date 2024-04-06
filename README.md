@@ -5,6 +5,8 @@ I made a small datapack to enable Hunters and Advanced Hunters spawn naturaly in
 
 This is useful if you wish to disable Hunter tent spawning in the Vampirism config.
 
+I've set the spawn rates to what I think would be a reasonable balance. After all, if you're a vampire, running around shouldn't be "safe".
+
 Since it contains tags for the werewolf heaven biome, Werewolves may be required as well or it could crash. I have not tested this, but have listed both as required dependencies.
 
 Feel free to use this in your modpack!
