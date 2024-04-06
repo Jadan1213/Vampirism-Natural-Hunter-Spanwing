@@ -1,0 +1,14 @@
+{
+    "type": "vampirism:extended_add_spawns",
+    "biomes": "#vampirism:has_spawn/hunter_natural_spawn",
+    "excludedBiomes": "#vampirism:no_spawn/hunter_no_spawn",
+    "spawners": {
+        "category": "monster",
+        "super": {
+            "type": "vampirism:hunter",
+            "maxCount": 3,
+            "minCount": 1,
+            "weight": 55
+        }
+    }
+}
