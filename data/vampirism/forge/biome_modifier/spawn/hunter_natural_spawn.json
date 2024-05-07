@@ -8,7 +8,7 @@
             "type": "vampirism:hunter",
             "maxCount": 3,
             "minCount": 1,
-            "weight": 55
+            "weight": 40
         }
     }
 }
